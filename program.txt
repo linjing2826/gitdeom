@@ -4,3 +4,8 @@ main()
 print "hello"
 
 }
+
+metho()
+{
+print "我的名字是飞牛"
+}
